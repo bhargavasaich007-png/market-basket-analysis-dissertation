@@ -2,7 +2,7 @@
 
 **MSc Data Analytics Dissertation — University of Portsmouth**  
 **Author:** Bhargava Sai Chiguripati  
-**Supervisor:** Dr Dongxu Gao | **Moderator:** Sohail Safdar  
+**Supervisor:** Dr Dongxu Gao 
 **Submitted:** May 2026
 
 ---
